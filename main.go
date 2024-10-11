@@ -15,6 +15,7 @@ func BubbleSort(array []int) []int {
 	}
 	return array
 }
+
 func main() {
 	array := make([]int, 10)
 	for i := range array {
